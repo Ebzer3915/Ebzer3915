@@ -25,5 +25,5 @@ I love experimenting with new technologies and building innovative projects.
 ---
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebzer3915&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebzer3915&layout=compact&theme=dark)
