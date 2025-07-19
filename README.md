@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ebinezer Justin
+### 🚀 About Me  
+I am a Robotics & Automation student passionate about Robotics, ROS, Coding, and CAD design.  
+I love experimenting with new technologies and building innovative projects.
 
-<!--
-**Ebzer3915/Ebzer3915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/ebinezer-justin-999814247/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](github.com/Ebzer3915)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)  
+![ROS](https://img.shields.io/badge/-ROS-black?style=flat&logo=ros)  
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-orange?style=flat)  
+... add more as needed
+
+---
+
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
