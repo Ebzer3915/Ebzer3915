@@ -14,7 +14,7 @@ I love exploring new technologies and building innovative projects.
 
 ### 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)  
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-lightgrey?style=flat&logo=c)  
 ![ROS](https://img.shields.io/badge/-ROS-black?style=flat&logo=ros)  
