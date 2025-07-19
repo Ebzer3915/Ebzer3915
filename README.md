@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ebinezer Justin
 ### 🚀 About Me  
 I am a Robotics & Automation student passionate about Robotics, ROS, Coding, and CAD design.  
-I love experimenting with new technologies and building innovative projects.
+I love exploring new technologies and building innovative projects.
 
 ---
 
