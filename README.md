@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ebinezer Justin
 ### 🚀 About Me  
-I am a Robotics & Automation student passionate about Robotics, ROS, Coding, and CAD design.  
+I am a Robotics & Automation engineer skilled in ROS, Coding, and CAD design.  
 I love exploring new technologies and building innovative projects.
 
 ---
@@ -13,14 +13,11 @@ I love exploring new technologies and building innovative projects.
 ---
 
 ### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)  
+![ROS](https://img.shields.io/badge/-ROS-black?style=flat&logo=ros)  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)  
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-lightgrey?style=flat&logo=c)  
-![ROS](https://img.shields.io/badge/-ROS-black?style=flat&logo=ros)  
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-orange?style=flat)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-
 
 ---
 
